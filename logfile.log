@@ -1,0 +1,81 @@
+Jun 26, 2014 8:52:42 PM CrawlingParsingEngine.CrawlerEngine <init>
+INFO: Components of the Crawler Engine Initialized
+Jun 26, 2014 8:52:42 PM CrawlingParsingEngine.CrawlerEngine run
+INFO: The Crawling Engine Thread Started
+Jun 26, 2014 8:52:42 PM CrawlingParsingEngine.CrawlerEngine addURLsToCrawl
+INFO: URLs added for crawl
+Jun 26, 2014 8:52:42 PM CrawlingParsingEngine.CrawlerEngine loadURLsCrawled
+INFO: URLs Crawled Earlier Loaded from Database
+Jun 26, 2014 8:52:46 PM CrawlingParsingEngine.CrawlerEngine run
+WARNING: Crawler Waiting for Internet Connectivity to Start
+Jun 26, 2014 8:52:46 PM CrawlingParsingEngine.CrawlerEngine run
+INFO: Internet Connectivity Detected - Crawler Starts
+Jun 26, 2014 8:52:47 PM CrawlingParsingEngine.CrawlerEngine getPage
+INFO: Fetched URL: http://www.nervetree.in
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/home
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/training
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/training/networking
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/training/cyber_security_ethical_hacking
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/training/web-development
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/it-services
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/it-services/web-designing-development-hosting
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/it-services/search-engine-optimisation-seo
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/it-services/web-vulnerability-security-assessment
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/employees-login-portal
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://mail.nervetree.in
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://docs.nervetree.in
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://calendar.nervetree.in
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/contact-us
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/system/app/pages/sitemap/hierarchy
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/training
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/training/networking
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/training/web-development
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/training/search-engine-optimisation-seo
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/training/cyber_security_ethical_hacking
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/it-services
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/it-services/web-designing-development-hosting
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/it-services/search-engine-optimisation-seo
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/it-services/web-vulnerability-security-assessment
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/announcements
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/contact-us
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/system/app/pages/sitemap/hierarchy
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: https://www.google.com/a/UniversalLogin?service=jotspot&continue=http://sites.google.com/a/nervetree.in/default_2/home
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/system/app/pages/recentChanges
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://www.nervetree.in/system/app/pages/reportAbuse
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+INFO: New URL added to Crawl List: http://sites.google.com
+Jun 26, 2014 8:52:48 PM CrawlingParsingEngine.CrawlerEngine processPage
+SEVERE: Error in Writing Page Details to Database:	org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "main_pkey"
+  Detail: Key (url)=(http://www.nervetree.in) already exists.

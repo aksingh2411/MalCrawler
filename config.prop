@@ -1,0 +1,17 @@
+#####################################################################
+#This is the configuration file for the Project
+# You may make changes to the properties in the non-commented portion. Note '#' is for commented line.
+
+
+
+#Database connectivity String
+databaseConnectivityString = jdbc:postgresql://localhost:5432/MalwareMining
+
+# Database User Name
+databaseUserName = postgres
+
+#Database Password
+databaseUserPassword= abc123
+
+#Inital Seed of URLs to Start the Crawl
+initialSeed= http://www.nervetree.in;http://www.rentnet.com/;http://www.funnyordie.com/;http://cdn.bispd.com
